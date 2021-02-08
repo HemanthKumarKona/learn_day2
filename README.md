@@ -1,6 +1,7 @@
 # Learning things from GitHubs's end
 
-*create a repo oin github
+*
+/create a repo oin github
 *try cloning it to local mc
 *get to copy a few files from local mc into the cloned repo
 *push the chnages to github repo online
@@ -12,4 +13,5 @@
 
 Bold - _demo_ - _ syntax _
 Italic - *demo* - * syntax *
-xxx - ~demo~ - ~ syntax ~
+strikethrouhh - ~demo~ - ~ syntax ~
+xxx - -demo- - - syntax -
